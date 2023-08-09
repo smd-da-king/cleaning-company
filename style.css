@@ -1,0 +1,255 @@
+
+.pg1{
+
+    background-image: url(Assets/Group\ 67\ \(1\).png);
+    background-size: 1440px 1024px;
+    box-sizing: border-box;
+    background-position: center;
+    position: absolute;
+}
+
+.pg1 img {
+    float:left;
+    margin-right: 100px;
+    margin-left: 40px;
+    width: 242px;
+    height: 55px;
+}
+
+#man1 img{
+    float:right;
+    position: relative;
+    padding-top: 5px;
+    width: 381px;
+    height:376px ;
+    
+}
+#base{
+    background-color: rgb(5, 58, 58);
+    float: right;
+    margin-top: 5px;
+    right: 135px;
+    position: relative;
+    padding: 5px;
+    color:aliceblue
+}
+.pg1 ul
+{
+    margin-top:0px;
+    top: 5px;
+    display: inline-flex;
+    list-style: none;
+    color: #070606;
+    float: right;
+}
+
+.pg1 ul li
+{
+    width: 100px;
+    margin-right: 5px;
+    padding: 5px;
+    font-size: medium;
+    color:rgb(9, 80, 62);
+    font-weight: bold;
+}
+
+.content h1{
+    padding-top: 150px;
+    padding-left: 40px;
+    font-size: xx-large;
+}
+.content p{
+    padding-left: 40px ;
+    padding-top: 25px;
+}
+.content button{
+    background-color: rgb(9, 104, 96);
+    text-align: center;
+    left: 150px;
+    margin-top: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    color:white;
+}
+
+.content img{
+
+    float:left;
+    padding-top:80px;
+    padding-left: 40px;
+    width: 337px;
+    height: 294px;
+}
+
+.pg2{
+    background-color: rgba(246, 246, 247, 0.918);
+    position:absolute;
+    top:800px;
+    width: 100%;
+}
+
+.pg2 img{
+    
+    margin-bottom:20px;
+    width: 498px;
+    height: 580px;
+    
+}
+#title
+{
+    position: absolute;
+    
+}
+#par
+{
+    float: right;
+    position: relative;
+    padding-top: 40px;
+    padding-right: 40px;
+    width: 600px;
+}
+
+#par h1{
+
+    color: black;
+   
+    font-size: xx-large;
+    
+ 
+}
+#par p{
+    color: black;
+    font-size: large;
+}
+    
+
+.pg3 {
+    background-color: white;
+    position: relative;
+    top: 1020px;
+}
+.pg3  h4, h1{
+    color: #070606;
+    padding:5px;
+    left: 0px;
+    position:relative;
+    
+    
+  
+}
+
+#menu{
+    position: absolute;
+    float: left;
+
+}
+
+#box{
+    border: 5px solid black;
+    width: 350px;
+    height:440px;
+    margin-top: 170px;
+    padding-top:20px;
+    padding-left: 10px;
+    position: absolute;
+    margin-left: 5px;
+    
+
+}
+#box img{
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-bottom: 40px;
+   padding: relative;
+}
+#box p{
+    width: 294px;
+    height: 169px;
+    padding-left:20px ;
+
+    font-size: large;
+}
+#box h1
+{
+    padding-bottom: 15px;
+}
+
+#box1
+{
+    border: 5px solid black;
+    width: 350px;
+    height:440px;
+    margin-top: 170px;
+    padding-top:20px;
+    padding-left: 10px;
+    position: absolute;
+    margin-left: 450px;
+}
+#box1 img{
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+   padding: relative;
+}
+#box1 p, h1 {
+    width: 294px;
+    height: 169px;
+    padding-left:20px ;
+    font-size: large;
+}
+
+#box2
+{
+    border: 5px solid black;
+    width: 350px;
+    height:440px;
+    margin-top: 170px;
+    padding-top:20px;
+    padding-left: 10px;
+    position: absolute;
+    margin-left: 900px;
+}
+#box2 img{
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+   padding: relative;
+}
+#box2 p, h1 {
+    width: 294px;
+    height: 169px;
+    padding-left:20px ;
+    font-size: large;
+}
+
+.flex-container{
+    color:aliceblue;
+
+}
+.flexbox-item{
+    width: 200px;
+    margin: 10px;
+    border: solid black;
+
+}
+.flexbox-item-1{
+    min-height: 100px;
+
+}
+.flexbox-item-2{
+    min-height: 100px;
+
+}
+.flexbox-item-3{
+    min-height: 100px;
+
+}
